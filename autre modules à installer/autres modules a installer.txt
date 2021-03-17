@@ -1,0 +1,11 @@
+discord.js
+delayed-stream
+combined-stream
+asynckit
+abort-controller
+@types
+@discordjs
+
+
+
+
